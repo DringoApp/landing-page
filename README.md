@@ -1,3 +1,5 @@
+Privacy policy gen: https://app-privacy-policy-generator.firebaseapp.com
+
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
